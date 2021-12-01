@@ -1,29 +1,29 @@
 global.DeveloperMode = 'false' //true Or false
-global.linkGC = ['https://chat.whatsapp.com/Lb4Emjih98rBiCZiZoS2eM', 'https://chat.whatsapp.com/FrluVyY5kBRIhY6yKfH4DI']
+global.linkGC = ['https://chat.whatsapp.com/KHVAnCItEvVAInC18iGEZH', 'https://chat.whatsapp.com/FrluVyY5kBRIhY6yKfH4DI']
 global.Owner = {
   // use the phone number with the country code, for example Indonesia '62' America '1' etc
-  '62857139649630': { // put your number here
-    name: 'Owner Metro Bot/Creator games-wabot',
+  '6285240646336': { // put your number here
+    name: 'Wahyu Anshar/Creator Wahyu Bot',
     isDev: false, // if true this number will send if bot have bug and developer mode true
     isReport: false, // if true this number will send if user use command /report or /join
     isCreator: true // if true this number will send if user use command /owner or /creator
   },
-  '6281390658325': { // put your number here
+  '6285240646336': { // put your number here
     isDev: true, // if true this number will send if bot have bug and developer mode true
     isReport: true, // if true this number will send if user use command /report or /join
     isCreator: false // if true this number will send if user use command /owner or /creator
   },
-  '6282256115584': { // put your number here
+  '6285240646336': { // put your number here
     name: 'Dave',
     isDev: false, // if true this number will send if bot have bug and developer mode true
     isReport: true, // if true this number will send if user use command /report or /join
     isCreator: false // if true this number will send if user use command /owner or /creator
   },
-  '60199782326': {
-    name: 'Adiixyz',
+  '6285240646336': {
+    name: 'Wahyu Anshar',
     isReport: true, // if true this number will send if user use command /report or /join
   },
-  '6285713964963': {
+  '6285240646336': {
     isReport: true
   },
   '13479805233': {} // ignore if you don't want anything, like name dll
@@ -53,8 +53,8 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'wa.me/6285713964963'
-global.author = 'Metro Bot Is The Best'
+global.packname = 'wa.me/6285240646336'
+global.author = 'Wahyu Anshar'
 
 global.multiplier = 39 // The higher, The harder levelup
 
