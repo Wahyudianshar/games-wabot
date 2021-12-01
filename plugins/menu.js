@@ -40,8 +40,8 @@ const defaultMenu = {
 │
 │ Uptime: *%uptime (%muptime)*
 │ Database: %rtotalreg of %totalreg
-│ Github:
-│ %github
+│ Github: https://chat.whatsapp.com/KHVAnCItEvVAInC18iGEZH
+  Apapun dirimu tetaplah menjadi yang terbaik! 
 ╰────
 %readmore`.trimStart(),
   header: '╭─「 %category 」',
