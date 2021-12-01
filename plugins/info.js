@@ -21,15 +21,15 @@ let handler  = async (m, { conn, usedPrefix }) => {
 ╠➥ *Uptime:* ${uptime}
 ║
 ╠═〘 DONASI 〙 ═
-╠➥ Gopay: 085713964963
-╠➥ Indosat: 085713964963
+╠➥ Gopay: 085240646336
+╠➥ Telkomsel: 085240646336
 ║
 ╠═ Request? ${package.bugs.url}
 ╠═ Official Group *${conn.user.name}* :
 ${(global.linkGC).map((v, i) => '║ *Group ' + (i + 1) + '*\n║' + v).join`\n║\n`}
 ║
 ║${readMore}
-╠═〘 SYARAT & KETENTUAN Games-wabot 〙 ═
+╠═〘 SYARAT & KETENTUAN Wahyu Bot 〙 ═
 ╠➥ *KAMI TIDAK BERTANGGUNG*
 ║   *JAWAB ATAS PENYALAH*
 ║   *GUNAAN BOT*
@@ -43,7 +43,7 @@ ${(global.linkGC).map((v, i) => '║ *Group ' + (i + 1) + '*\n║' + v).join`\n�
 ║ 
 ╠═ ©2021 ${package.name}
 ╠═ Script original by Nurutomo
-╠═〘 METRO BOT 〙 ═
+╠═〘 WAHYU BOT 〙 ═
 `.trim(), m)
 }
 handler.help = ['info']
