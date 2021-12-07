@@ -1,3 +1,4 @@
+
 let handler = async (m, { conn, text, isROwner, isOwner }) => {
   if (text) {
     if (isROwner) global.conn.welcome = text
@@ -11,4 +12,5 @@ handler.tags = ['owner', 'group']
 
 handler.command = /^setwelcome$/i
 module.exports = handler
+
 
